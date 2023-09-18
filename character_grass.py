@@ -56,13 +56,4 @@ while True:
         square = True
         angle = 270
         y = 90
-        x = 400
-        
-            
-            
-
-
-    
-
-
-close_canvas()
+        x = 400       
